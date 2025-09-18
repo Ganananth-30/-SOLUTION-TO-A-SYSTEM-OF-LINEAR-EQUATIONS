@@ -14,12 +14,10 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-<img width="645" height="193" alt="Screenshot 2025-09-18 084854" src="https://github.com/user-attachments/assets/9cf19ad0-0e1b-4f4e-bb4c-1cafb77e2433" />
-# developed by : H GANANANTH
-# REG.NO: 25010984
-## Output:
-<img width="1294" height="347" alt="Screenshot 2025-09-18 084915" src="https://github.com/user-attachments/assets/d646b9ab-302b-44f1-a16d-1c96b3ccfdd9" />
+<img width="755" height="193" alt="Screenshot 2025-09-18 091459" src="https://github.com/user-attachments/assets/3f0c5184-af4f-4484-8a73-cd808665a86c" />
 
+## Output:
+<img width="1318" height="317" alt="Screenshot 2025-09-18 091710" src="https://github.com/user-attachments/assets/e8760091-9cf8-41e5-bb1b-8be23b9c8c9d" />
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
